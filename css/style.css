@@ -69,7 +69,7 @@ ul {
   background-color: transparent;
   background-size: cover;
   background-attachment: fixed;
-  background-position: 20%;
+  background-position: 30%;
   position: relative;
   height: 100vh;
   min-height: 600px;
@@ -210,7 +210,7 @@ ul {
   list-style: none;
 }
 .skills li {
-  margin-bottom: 5px;
+  margin: 0px 4px 8px 4px;
 }
 .skills img {
   height: 40px;
@@ -365,7 +365,7 @@ ul {
 }
 .projects .work {
   background-size: cover;
-  background-position: center center;
+  background-position: top left;
   background-repeat: no-repeat;
   position: relative;
   height: 270px;
